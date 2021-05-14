@@ -59,12 +59,12 @@ Modeling wise we will be using **Scikit-learn**  which is a free software machin
 
 | File | Link|
 |-	|-	|
-| Intial Eda	|  	|
-| Secondary Eda 	|  	|
-| Test Sample Maker	|  	|
-| Binary 01: Naive Bayes 	|  	|
-| Multiclass 02: Multinomial Naive Bayes 	|  	|
-| 	|  	|
+| Intial Eda	| https://github.com/Amirdatasci2021/hiphopl_lyrics_and_origin_detection/blob/main/01.prelim_eda.ipynb 	|
+| Secondary Eda 	| https://github.com/Amirdatasci2021/hiphopl_lyrics_and_origin_detection/blob/main/02.kaggle.ipynb 	|
+| Test Sample Maker	|  https://github.com/Amirdatasci2021/hiphopl_lyrics_and_origin_detection/commit/070204cd636b7868086294283f20c33d45bd77b2	|
+| Binary 01: Bernoulli Naive Bayes 	| https://github.com/Amirdatasci2021/hiphopl_lyrics_and_origin_detection/blob/main/04_Binary_01.ipynb 	|
+| Multiclass 02: Multinomial Naive Bayes 	|https://github.com/Amirdatasci2021/hiphopl_lyrics_and_origin_detection/commit/070204cd636b7868086294283f20c33d45bd77b2  	|
+
 
 
 **Process:**
