@@ -1,5 +1,5 @@
 # Machine Learning and Source recognition:
-## Internet Hip hop Lyrics and the depth of NLP*** 
+## Internet Hip hop Lyrics and the depth of NLP
 
 ### Introduction
 
