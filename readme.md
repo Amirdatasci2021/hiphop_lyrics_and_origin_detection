@@ -53,7 +53,7 @@ One thing that I have observed in the language that people use as of late is the
 
 Modeling wise we will be using **Scikit-learn**  which is a free software machine learning library for the **Python** programming language. It features various classification, regression and clustering algorithms.With smaller samples, **Bernoulli Naive Bayes** gives more accurate and precise predictions as opposed to other models. I choose it for speed and the fact that it really gives quick predictions. In relation to the text data here we have selected Count Vectorizer as our tokenizer. TfidfVectorizer() assigns a score while CountVectorizer() counts and after careful evaluation of both. We will be using **CountVectorizer()** as we do not need the scoring component. 
 
-**Other Models used: Support Vector Classifiers, KNClassifier**
+**Other Models used: Support Vector Classifiers, KNClassifier will be supplied later because they take way too long**
 
 **Table of Contents**
 
